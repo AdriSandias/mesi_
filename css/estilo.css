@@ -1,0 +1,379 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+  background-image: url(https://s.yimg.com/uu/api/res/1.2/kN7C11K9oC005tzPeCARFw--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/uk.goal.com/a159296a4e1c4506f8f1b475ef261141);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+div#encabezado{
+  width: 100%;
+  height: 800px;
+	}
+
+div#contenedor{
+  width: 100%;
+  height: 1000px;
+	color: white;
+	opacity: 0.9;
+	background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-20/common/xl.jpg.adapt.1456w.jpg);
+}
+
+h1#titulo1{
+  font-family: 'Anton', sans-serif;
+  color: white;
+  opacity: 0.5;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+#headerMenu{
+	width: 100%;
+	height: 50px;
+	box-shadow:  1px 1px 5px #000;
+	background: black;
+	position: fixed;
+}
+
+#menu{
+width: 450px;
+padding-top: 10px;
+margin: auto;
+}
+
+#menu ul a {
+	color: white;
+	text-decoration: none;
+	padding: 13px 20px 13px 20px;
+	font-family: 'Anton', sans-serif;
+}
+#menu ul a:hover{
+	color: black;
+	background: #6e6e6e;
+}
+
+#cont_body{
+	text-align:center;
+}
+
+#titulo2{
+	font-family: 'Anton', sans-serif;
+	padding-top: 50px;
+}
+
+#titulo3{
+	font-family: 'Anton', sans-serif;
+}
+
+
+#carta{
+	width: 350px;
+  height: 450px;
+  margin: 10px auto;
+  display: block;
+}
+
+
+#medio2 img{
+	width: 100%;
+	height:800px;
+}
+
+
+#mesiFoto img{
+	width: 350px;
+  height: 350px;
+  margin: 10px auto;
+  display: block;
+}
+
+div#texto2{
+	text-align: center;
+	color: white;
+	font-family: 'Anton', sans-serif;
+}
+#lista{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+div#lista ul li{
+	list-style: none;
+}
+
+
+div#fondo1{
+	width: 100%;
+	height: 400px;
+}
+#medio3{
+	background-color: black;
+	height: 300px;
+}
+#medio3 img{
+	margin:10px auto;
+ 	display:block;
+}
+
+div#cuadro1{
+	padding-top: 40px;
+	background-color: black;
+	opacity: 0.5;
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	color: white;
+}
+
+div#cuadro2{
+	background-color: black;
+	padding-top: 40px;
+	opacity: 0.5;
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	color: white;
+}
+
+div#nav_final{
+	width: 100%;
+	height: 60px;
+	padding-top: 15px;
+	text-align: center;
+	background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-20/common/xl.jpg.adapt.1456w.jpg);
+}
+
+div#nav_final ul a{
+	color: white;
+	text-decoration: none;
+	padding: 13px 20px 13px 20px;
+	font-family: 'Anton', sans-serif;
+}
+
+div#final_img{
+	background-color: black;
+	width: 100%;
+	height: auto;
+}
+div#final_img img {
+	margin: 10px auto;
+  display: block;
+}
+
+@media (max-width: 575.98px) {
+	#menu{
+	text-align: center;
+	width: 450px;
+	padding-top: 10px;
+	margin: 0px 40px;
+	}
+	body{
+	  background-image: url(https://s.yimg.com/uu/api/res/1.2/kN7C11K9oC005tzPeCARFw--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/uk.goal.com/a159296a4e1c4506f8f1b475ef261141);
+	  background-repeat: no-repeat;
+	  background-size: 100%;
+	  background-attachment: fixed;
+		background-color: black;
+	}
+
+	div#encabezado{
+	  width: 100%;
+	  height: 350px;
+		}
+
+
+		#carta{
+			width: 220px;
+		  height: 225px;
+		  margin: 10px auto;
+		  display: block;
+		}
+
+		#mesiFoto img{
+			width: 250px;
+		  height: 250px;
+		  margin: 10px auto;
+		  display: block;
+		}
+		#fondoPeque{
+			background-color: black;
+		}
+
+		#medio2 img {
+    	width: 100%;
+    	height: 366px;
+		margin: 10px auto;
+		display: block;
+}
+	div#final_img img {
+	margin: 10px auto;
+  display: block;
+	width: 100%;
+	height: auto;
+	}
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#menu{
+	text-align: center;
+	width: 450px;
+	padding-top: 10px;
+	margin: 0px 40px;
+	}
+	body{
+	  background-image: url(https://s.yimg.com/uu/api/res/1.2/kN7C11K9oC005tzPeCARFw--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/uk.goal.com/a159296a4e1c4506f8f1b475ef261141);
+	  background-repeat: no-repeat;
+	  background-size: 100%;
+	  background-attachment: fixed;
+		background-color: black;
+	}
+
+	div#encabezado{
+	  width: 100%;
+	  height: 350px;
+		}
+
+
+		#carta{
+			width: 220px;
+		  height: 225px;
+		  margin: 10px auto;
+		  display: block;
+		}
+
+		#mesiFoto img{
+			width: 250px;
+		  height: 250px;
+		  margin: 10px auto;
+		  display: block;
+		}
+		#fondoPeque{
+			background-color: black;
+		}
+
+		#medio2 img {
+    	width: 100%;
+    	height: 366px;
+		margin: 10px auto;
+		display: block;
+}
+	div#final_img img {
+	margin: 10px auto;
+  display: block;
+	width: 100%;
+	height: auto;
+	}
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#menu{
+	text-align: center;
+	width: 450px;
+	padding-top: 10px;
+	margin: 0px 40px;
+	}
+	body{
+		background-image: url(https://s.yimg.com/uu/api/res/1.2/kN7C11K9oC005tzPeCARFw--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/uk.goal.com/a159296a4e1c4506f8f1b475ef261141);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-attachment: fixed;
+		background-color: black;
+	}
+
+	div#encabezado{
+		width: 100%;
+		height: 350px;
+		}
+
+
+		#carta{
+			width: 220px;
+			height: 225px;
+			margin: 10px auto;
+			display: block;
+		}
+
+		#mesiFoto img{
+			width: 250px;
+			height: 250px;
+			margin: 10px auto;
+			display: block;
+		}
+		#fondoPeque{
+			background-color: black;
+		}
+
+		#medio2 img {
+			width: 100%;
+			height: 366px;
+		margin: 10px auto;
+		display: block;
+	}
+	div#final_img img {
+	margin: 10px auto;
+	display: block;
+	width: 100%;
+	height: auto;
+	}
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#menu{
+	text-align: center;
+	width: 450px;
+	padding-top: 10px;
+	margin: 0px 40px;
+	}
+	body{
+	  background-image: url(https://s.yimg.com/uu/api/res/1.2/kN7C11K9oC005tzPeCARFw--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/uk.goal.com/a159296a4e1c4506f8f1b475ef261141);
+	  background-repeat: no-repeat;
+	  background-size: 100%;
+	  background-attachment: fixed;
+		background-color: black;
+	}
+
+	div#encabezado{
+	  width: 100%;
+	  height: 350px;
+		}
+
+
+		#carta{
+			width: 220px;
+		  height: 225px;
+		  margin: 10px auto;
+		  display: block;
+		}
+
+		#mesiFoto img{
+			width: 250px;
+		  height: 250px;
+		  margin: 10px auto;
+		  display: block;
+		}
+		#fondoPeque{
+			background-color: black;
+		}
+
+		#medio2 img {
+    	width: 100%;
+    	height: 366px;
+		margin: 10px auto;
+		display: block;
+}
+	div#final_img img {
+	margin: 10px auto;
+  display: block;
+	width: 100%;
+	height: auto;
+	}
+ }
+
+@media (min-width: 1200px) {
+
+ }
